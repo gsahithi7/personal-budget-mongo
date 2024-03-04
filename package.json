@@ -1,0 +1,27 @@
+{
+  "name": "personal-budget-mongo",
+  "version": "1.0.0",
+  "description": "This website uses mongo db for fetching data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsahithi7/personal-budget-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsahithi7/personal-budget-mongo/issues"
+  },
+  "homepage": "https://github.com/gsahithi7/personal-budget-mongo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.17.1",
+    "mongoose": "^7.6.2"
+  }
+}
